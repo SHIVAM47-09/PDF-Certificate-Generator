@@ -1,6 +1,5 @@
 # PDF-Certificate-Generator
 
-Here’s a screenshot of the certificate :
+Here’s a screenshot of the certificate:
 
-![certificate](./assets/my-photo.png)
-
+<img src="./assests/my-photo.png" alt="Certificate preview" width="600" />
