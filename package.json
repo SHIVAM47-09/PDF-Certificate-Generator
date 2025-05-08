@@ -1,0 +1,21 @@
+{
+  "name": "pdf-certificate-generator",
+  "version": "1.0.0",
+  "description": "Here’s a screenshot of the certificate :",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "pdfkit": "^0.17.1"
+  }
+}
